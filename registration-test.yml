@@ -22,5 +22,5 @@ spring:
 logging:
   config: classpath:log4j2-production.yml
   
-  tencentHealth:
-    url: https://med-biz-pre.wecity.qq.com/api/VipHosp
+tencentHealth:
+  url: https://med-biz-pre.wecity.qq.com/api/VipHosp
